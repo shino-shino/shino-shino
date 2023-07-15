@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-summary-cards
+    name: generate
 
     steps:
       - uses: actions/checkout@v2
