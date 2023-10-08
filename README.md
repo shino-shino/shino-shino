@@ -4,7 +4,7 @@
 
 
 <p align="center"> 
-  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=shino-shino&theme=cobalt&show_icons=true&include_all_commits=false&hide_rank=true" />
+  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=shino-shino&theme=cobalt&show_icons=true&include_all_commits=true&hide_rank=true" />
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shino-shino&layout=compact&show_icons=true&theme=cobalt" />
 </p>
 
