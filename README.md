@@ -2,18 +2,25 @@
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
-<p align="center"> 
+<!-- エラー中 -->
+<!-- <p align="center"> 
   <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=shino-shino&theme=cobalt&show_icons=true&include_all_commits=false&hide_rank=true" />
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shino-shino&layout=compact&show_icons=true&theme=cobalt" />
+</p> -->
+
+<!-- 代替案 -->
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/shino-shino/shino-shino/main/profile-summary-card-output/solarized/1-repos-per-language.svg"
+    alt="Repos per Language"
+    height="180"
+  />
+  <img
+    src="https://raw.githubusercontent.com/shino-shino/shino-shino/main/profile-summary-card-output/solarized/2-most-commit-language.svg"
+    alt="Most Commit Language"
+    height="180"
+  />
 </p>
-
-<!-- [![shino-shino's GitHub stats](https://github-readme-stats.vercel.app/api?username=shino-shino)](https://github.com/shino-shino/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shino-shino&layout=compact)](https://github.com/shino-shino/github-readme-stats) -->
-
-<!-- [![](https://raw.githubusercontent.com/shino-shino/shino-shino/main/profile-summary-card-output/swift/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/shino-shino/shino-shino/main/profile-summary-card-output/swift/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shino-shino/shino-shino/main/profile-summary-card-output/swift/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/shino-shino/shino-shino/main/profile-summary-card-output/swift/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shino-shino/shino-shino/main/profile-summary-card-output/swift/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
-
 
 <!--
 **shino-shino/shino-shino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
